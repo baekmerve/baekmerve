@@ -5,7 +5,7 @@ I'm Merve, a junior frontend developer passionate about creating modern, respons
 [![Gmail Badge](https://img.shields.io/badge/-baekmerve@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baekmerve@gmail.com)](mailto:baekmerve@gmail.com)
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -37,12 +37,6 @@ I'm Merve, a junior frontend developer passionate about creating modern, respons
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baekmerve&theme=rose&hide_border=false" /></p>
 
 
-**Expand to view**
-<details>
-  <summary> <b>:zap: Profile Stat</b></summary>
-  <br />
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baekmerve&theme=rose&hide_border=false&include_all_commits=true&count_private=true" /></p>
-</details>
 
 
